@@ -1,6 +1,8 @@
 # AutoCommandSender
 Exiled 9.10.2+ SCPSL 14.2.2+
 
+If you have any problems or this plugin problems you can go to my discord serve. Here: https://discord.gg/2adpN4eyXj
+
 ![Alt](https://repobeats.axiom.co/api/embed/0480f0d8c5510ab64353908c8ea6261017b136e5.svg "Repobeats analytics image")
 
 # English
